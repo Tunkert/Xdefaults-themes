@@ -1,0 +1,43 @@
+URxvt.font: xft:monaco:size=12
+URxvt.perl-ext-common: tabbed
+URxvt.geometry: 999x999
+URxvt.scrollBar: false
+URxvt.titleBar: false
+
+! special
+*.foreground:   #e3e9fa
+*.background:   #2d2b55
+*.cursorColor:  #e3e9fa
+
+! black
+*.color0:       #403d76
+*.color8:       #423e88
+
+! red
+*.color1:       #e88af0
+*.color9:       #e88af0
+
+! green
+*.color2:       #fad726
+*.color10:      #fad726
+
+! yellow
+*.color3:       #d68711
+*.color11:      #d68711
+
+! blue
+*.color4:       #a5ff90
+*.color12:      #a5ff90
+
+! magenta
+*.color5:       #8d52ce
+*.color13:      #8d52ce
+
+! cyan
+*.color6:       #37f79f
+*.color14:      #37f79f
+
+! white
+*.color7:       #dce2f4
+*.color15:      #dce2f4
+
